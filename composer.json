@@ -1,0 +1,32 @@
+{
+  "hint": "target on helper dir and model dir"
+  , "name": "enter/cdi_module"
+  , "description": "trying packagist"
+  , "version": "0.0.0"
+  , "keywords": [
+    "CodeIgniter",
+    "etc"
+  ]
+  , "homepage": "tomake ref to doc"
+  , "type": "codeigniter-module"
+  , "time": "2018-11-01 17:17:17"
+  , "license": "GPL-3.0-only"
+  , "require": {
+    "composer/installers": "~1.0"
+  }
+  , "authors": [
+    {
+      "name": "Adi Prasetyo"
+      , "email": "skipForGood@mail.com"
+      , "homepage": "http://brutalcrozt.github.io"
+      , "role": "single fighter developer"
+    }
+  ]
+  , "support": {
+      "issues": "URL to the issue tracker."
+      , "forum": "URL to the forum."
+      , "source": "URL to browse or download the sources."
+      , "docs": "URL to the documentation."
+      , "rss": "URL to the RSS feed."
+  }
+}
